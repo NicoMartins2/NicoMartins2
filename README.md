@@ -23,4 +23,4 @@
 ⏳ I'm 18 years old; <br>
 📚 Studying for Computer Science; <br>
 🪪 Currently working as a systems analyst trainee at Associação Cultural e Científica Virvi Ramos <br>
-🌎 Living at Rio Grande do Sul - Brasil
+🌎 Living at Rio Grande do Sul - Brazil
