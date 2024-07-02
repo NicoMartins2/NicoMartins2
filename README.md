@@ -1,16 +1,5 @@
 ## Olá! Me chamo Nícolas Rodrigues Martins 😊 (pt-br) /  Hello! I'm Nícolas Rodrigues Martins 😊 (en-us)
 
-### Meus status do GitHub 📊  / My GitHub stats 📊
-
-<br>
-
-<div>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=nicomartins2&show_icons=true&theme=darcula">
-    <img height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicomartins2&show_icons=true&theme=darcula">
-</div>
-
-<br><br>
-
 ### ℹ️ Informações adicionais (pt-br):
 <br><br>
 ⏳ Tenho 18 anos; <br>
