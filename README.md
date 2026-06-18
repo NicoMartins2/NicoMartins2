@@ -8,9 +8,7 @@
 🌎 Morando no Rio Grande do Sul - Brasil <br>
 
 ### <h3> 📈 Estudos Atuais <br> </h3> 
-1. Gamedev;
-2. Web Dev;
-3. SQL/Python para Análise de Dados.
+1. SQL/Python para Análise de Dados
 
 ### <h2>ℹ️ Additional Info (en-us): <br><br></h2>
 
@@ -20,6 +18,4 @@
 🌎 Living at Rio Grande do Sul - Brazil
 
 ### <h3> 📈 Current Studies </h3> 
-1. Gamedev;
-2. Web Dev;
-3. SQL/Python for Data Analysis
+1. SQL/Python for Data Analysis
